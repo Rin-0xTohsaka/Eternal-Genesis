@@ -1,5 +1,8 @@
 # Eternal Genesis
 
+![Game of Life in action](./Demo.gif)
+
+
 Welcome to Eternal Genesis, an advanced visualizer for Conway's Game of Life. This is not just a mere implementation of the renowned cellular automaton discovered by John Horton Conway, but it is an artistic exploration of life, visualizing the complex and beautiful patterns that emerge from simple rules.
 
 In this project, we explore various expressions such as:
